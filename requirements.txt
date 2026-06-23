@@ -1,0 +1,4 @@
+apache-airflow-providers-mysql
+apache-airflow-providers-postgres
+mysqlclient
+psycopg2-binary
